@@ -12,6 +12,13 @@ public class GitTrial {
 		System.out.println(6);
 		System.out.println(7);
 		
+		String s ="hai";
+				String s1="hello";
+				
+				System.out.println(s.charAt(1));
+				System.out.println(s1.charAt(3));
+				
+		
 		
 		
 		
