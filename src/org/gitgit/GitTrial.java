@@ -12,7 +12,9 @@ public class GitTrial {
 		System.out.println(6);
 		System.out.println(7);
 		
+		System.out.println("Good morning");
 		
+		System.out.println("good evening");
 		
 		
 		
